@@ -28,7 +28,7 @@
     align-items: center;
     background-color: var(--background-color);
     transition: opacity 0.75s, visibility 0.75s;
-    z-index: 1000;
+    z-index: 1100;
 }
 
 .loader-hidden{
